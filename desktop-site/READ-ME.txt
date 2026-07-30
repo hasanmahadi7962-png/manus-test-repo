@@ -1,0 +1,11 @@
+Store1 Landing Page
+
+খুলতে হবে:
+1. index.html - ডাবল ক্লিক করুন (browser-এ খুলে যাবে)
+2. css/style.css - design file
+3. images/ - সব ছবি
+
+Server চালাতে (optional):
+python -m http.server 8080
+
+Live URL: http://localhost:8080
